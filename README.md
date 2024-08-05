@@ -48,7 +48,7 @@ The creation of this hypothetical Security Policy is a proactive strategy to man
 
 <h2> The Policy below </h2>
 <p align="center">
-<img src="(https://github.com/user-attachments/assets/8283ba09-80bf-496f-97e1-a64327e59695)">
+<img src="(https://github.com/user-attachments/assets/8283ba09-80bf-496f-97e1-a64327e59695)" height="80%" width="80%">
 <br />
 
 
