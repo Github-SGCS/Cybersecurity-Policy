@@ -48,7 +48,7 @@ The creation of this hypothetical Security Policy is a proactive strategy to man
 
 <h2> The Policy below </h2>
 <p align="center">
-<img src="(https://github.com/user-attachments/files/16491556/SGCS.Cybersecurity.Policy.docx)">
+<img src="![Screenshot 2024-08-05 at 07 46 15](https://github.com/user-attachments/assets/3a51c8c7-1298-43e9-8dcc-38ae2d482b45)">
 <br />
 
 
